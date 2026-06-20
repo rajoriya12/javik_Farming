@@ -1,1 +1,19 @@
 @import "tailwindcss";
+
+@keyframes AutoScroll {
+    From{
+        transform: translateX(0);
+    }
+    To{
+        transform: translateX(-100%);
+    }
+}
+
+@theme {
+  --background-image-hero: url('https://images.unsplash.com/photo-1500937386664-56d1dfef3854?q=80&w=1200&auto=format&fit=crop');
+}
+
+
+.animate-auto-scroll {
+  animation: AutoScroll 15s linear infinite;
+}
