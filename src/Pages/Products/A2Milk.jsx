@@ -132,7 +132,7 @@ function A2Milk() {
         </p>
         <a href="https://wa.me/+919667612626"
           style={{ background: "#25D366", color: "#fff", padding: "16px 36px", borderRadius: "6px", fontWeight: "700", fontSize: "16px", textDecoration: "none", display: "inline-flex", alignItems: "center", gap: "10px" }}>
-          💬 WhatsApp — Subscribe Now
+          💬 WhatsApp — Order Now
         </a>
       </section>
     </div>
